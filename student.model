@@ -1,0 +1,5 @@
+model todo {
+    id:number auto, 
+    name:string, 
+    status:boolean
+}

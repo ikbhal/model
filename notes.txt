@@ -1,0 +1,8 @@
+read student.model
+create javascript class 
+create controller front end 
+list  table 
+view, edit, delete 
+save to firestore.js  -- same name as model 
+
+connect details from firebase.config
